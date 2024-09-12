@@ -1,2 +1,4 @@
-package org.example.ctacminispringsecuringapis2.config;public class SecurityConfig {
+package org.example.ctacminispringsecuringapis2.config;
+
+public class SecurityConfig {
 }

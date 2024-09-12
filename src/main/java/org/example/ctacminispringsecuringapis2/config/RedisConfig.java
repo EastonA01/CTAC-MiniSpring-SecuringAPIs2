@@ -1,2 +1,4 @@
-package org.example.ctacminispringsecuringapis2.config;public class RedisConfig {
+package org.example.ctacminispringsecuringapis2.config;
+
+public class RedisConfig {
 }
